@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Spannakin
-- I’m an outdoor enthusiast and nature lover, I'm totally new to coding and am looking to move into the sector, I'm interested in meeting new people and learning new skills. 
-- 🌱 I’m currently learning with the Code Institute on the Full Stack Developer diploma. I'm currently learning front end languages and UX, which I'm really
-enjoying. But I'm also looking forward to learing about Back end and how that all fits together.
+
+- I’m an outdoor enthusiast and nature lover, my day job is fundraising for the RSPB and can most often be found outside covered in mud! Coding is something of a side hustle for me, I'm not one to choose the easy route. I love the challenge of learning new skills and helping people to create websites that work for them. I have a varied background in both the private and charity sectors and am happy to share my skills and knowledge with others.
+
+- 🌱 I’m Graduate from Code Institute with a  Full Stack Developer diploma. I love the front end and developing great user experiences and am looking forward to getting better at creating clean stylish code.
 
 <!---
 Spannakin/Spannakin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
